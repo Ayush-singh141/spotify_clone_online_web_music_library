@@ -51,7 +51,7 @@ This project is a clone of Spotify's web player, offering an interactive UI wher
    ```bash
    python -m http.server
    ```
-4. Open the application in your browser at `http://127.0.0.1:5500`.
+4. Open the application in your browser at `http://127.0.0.1:portnumber`.
 
 ## Usage
 - Click on an album or playlist to load songs.
