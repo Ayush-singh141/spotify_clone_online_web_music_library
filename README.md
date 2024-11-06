@@ -1,6 +1,5 @@
+Spotify Clone
 
-
-🎵 Spotify Clone - Online Web Music Player 🎶
 Welcome to the Spotify Clone repository! This project is an online web-based music player, inspired by Spotify's sleek design and functionality. Users can browse, play, and manage their favorite songs right from the browser. Built with HTML, CSS, and JavaScript, it simulates the experience of a professional music streaming service.
 
 Features
