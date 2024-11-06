@@ -22,8 +22,6 @@ Music Library: A sample collection of songs to test functionality.
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [Hosted Web Link}(#the website is hosted on WEBHOSTMOST.com)
-
 ## About the Project
 This project is a clone of Spotify's web player, offering an interactive UI where users can explore songs, view playlists, and control music playback. It was developed as a learning exercise in web development to recreate a simplified version of a popular music streaming service.
 
