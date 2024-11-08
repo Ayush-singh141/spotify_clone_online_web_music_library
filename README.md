@@ -91,4 +91,4 @@ spotify-clone/
 ## Contributing
 Feel free to fork the repository and make changes. Pull requests are welcome.
 ## the website is hosted on WEBHOSTMOST.com
-[https://github.com/username/repository-name](https://spotifyclonebyayushsingh.freewebhostmost.com/)
+[spotify-clone-by-ayush-singh](https://spotifyclonebyayushsingh.freewebhostmost.com/)
