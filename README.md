@@ -41,11 +41,11 @@ This project is a clone of Spotify's web player, offering an interactive UI wher
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   gh repo clone Ayush-singh141/spotify_clone_online_web_music_library
    ```
 2. Open the project directory:
    ```bash
-   cd spotify-clone
+   cd spotify_clone_online_web_music_library
    ```
 3. Run a local server (you can use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VSCode or a Python server):
    ```bash
@@ -75,7 +75,9 @@ spotify-clone/
 ```
 
 ## Screenshots
+
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/e93d35c1-5146-4234-821a-9bc1b5ef9a7d">
+
 <img width="245" alt="image" src="https://github.com/user-attachments/assets/7235fa35-43c0-4102-888b-da714d2e6f3d">
 
 
